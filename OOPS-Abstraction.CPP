@@ -43,3 +43,7 @@ int main()
     employee2.AskForPromotion();
     
 }
+
+///// OUTPUT ////////
+Saldina , Sorry NO Promotion for you.
+John got Promoted.
