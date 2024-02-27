@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-int sum(int arr[],int n)
+int FindSum(int arr[],int n)
 {
     int sum=0;
     
@@ -29,7 +29,7 @@ int main()
         cin>>arr[i];
     }
     
-    cout<<"sum :"<<sum(arr,n);
+    cout<<"sum :"<<FindSum(arr,n);
     
     return 0;
     
